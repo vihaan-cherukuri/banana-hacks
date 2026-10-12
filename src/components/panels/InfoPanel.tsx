@@ -151,6 +151,17 @@ export default function InfoPanel() {
                 . Banana Hacks is not an MLH member event.
               </span>
             </Row>
+
+            <Row label="Feedback">
+              <a
+                href={siteConfig.feedbackFormUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-vine-600 underline underline-offset-2 hover:text-vine-700"
+              >
+                Tell us what's working (or not)
+              </a>
+            </Row>
           </dl>
 
           {/* Sponsors. On the hero these sit behind the dock and are never

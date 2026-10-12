@@ -133,6 +133,16 @@ export default function InfoLayout({
                   Instagram
                 </a>
               </li>
+              <li>
+                <a
+                  href={siteConfig.feedbackFormUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-body text-xs text-vine-600 hover:underline"
+                >
+                  Give feedback
+                </a>
+              </li>
             </ul>
           </div>
         </div>

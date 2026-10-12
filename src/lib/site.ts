@@ -35,6 +35,7 @@ export const siteConfig = {
    */
   discordUrl: "",
   instagramUrl: "https://www.instagram.com/bananahacks26/",
+  feedbackFormUrl: "https://tally.so/r/VLRd9v",
   mlhCodeOfConductUrl: "https://mlh.io/code-of-conduct",
   /** Stated plainly because nothing on the site previously said either. */
   eligibility:
